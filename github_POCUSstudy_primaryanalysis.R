@@ -1,6 +1,6 @@
 # ============================================================================
 # Title       : Primary GLMM Analysis - POCUS Study
-# Author      : Ankush Jamthikar, Partho Sengupta
+# Author      : Ankush Jamthikar, Naveena Yanamala, Partho P. Sengupta
 # Description : Load required packages and input dataset for primary analysis
 # Date        : Sys.Date()
 # ============================================================================
